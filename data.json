@@ -40,9 +40,9 @@
     "minorCat": "rack",
     "isFavorite": false,
     "isNewArrival": false,
-    "isFeatured": false,
+    "isFeatured": true,
     "isOnSale": false,
-    "isBestSelling": false
+    "isBestSelling": true
   },
   {
     "id": "4",
@@ -57,7 +57,7 @@
     "isNewArrival": false,
     "isFeatured": false,
     "isOnSale": false,
-    "isBestSelling": false
+    "isBestSelling": true
   },
   {
     "id": "5",
@@ -115,7 +115,7 @@
     "minorCat": "green-tank",
     "isFavorite": false,
     "isNewArrival": false,
-    "isFeatured": false,
+    "isFeatured": true,
     "isOnSale": false,
     "isBestSelling": false
   },
