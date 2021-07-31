@@ -9,7 +9,7 @@
     "majorCat": "door",
     "minorCat": "uPVC",
     "isFavorite": false,
-    "isNewArrival": false,
+    "isNewArrival": true,
     "isFeatured": false,
     "isOnSale": false,
     "isBestSelling": false
@@ -24,7 +24,7 @@
     "majorCat": "fittings",
     "minorCat": "fittings",
     "isFavorite": false,
-    "isNewArrival": false,
+    "isNewArrival": true,
     "isFeatured": false,
     "isOnSale": false,
     "isBestSelling": false
@@ -54,7 +54,7 @@
     "majorCat": "household",
     "minorCat": "jug",
     "isFavorite": false,
-    "isNewArrival": false,
+    "isNewArrival": true,
     "isFeatured": false,
     "isOnSale": true,
     "isBestSelling": true
@@ -69,7 +69,7 @@
     "majorCat": "pipe",
     "minorCat": "uPVC",
     "isFavorite": false,
-    "isNewArrival": false,
+    "isNewArrival": true,
     "isFeatured": false,
     "isOnSale": false,
     "isBestSelling": false
