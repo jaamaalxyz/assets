@@ -12,7 +12,7 @@
     "isNewArrival": true,
     "isFeatured": false,
     "isOnSale": false,
-    "isBestSelling": false
+    "isBestSelling": ture
   },
   {
     "id": "2",
