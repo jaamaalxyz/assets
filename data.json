@@ -56,7 +56,7 @@
     "isFavorite": false,
     "isNewArrival": false,
     "isFeatured": false,
-    "isOnSale": false,
+    "isOnSale": true,
     "isBestSelling": true
   },
   {
@@ -131,7 +131,7 @@
     "isFavorite": false,
     "isNewArrival": false,
     "isFeatured": false,
-    "isOnSale": false,
+    "isOnSale": true,
     "isBestSelling": false
   },
   {
@@ -176,7 +176,7 @@
     "isFavorite": false,
     "isNewArrival": false,
     "isFeatured": false,
-    "isOnSale": false,
+    "isOnSale": true,
     "isBestSelling": false
   },
   {
@@ -191,7 +191,7 @@
     "isFavorite": false,
     "isNewArrival": false,
     "isFeatured": false,
-    "isOnSale": false,
+    "isOnSale": true,
     "isBestSelling": false
   },
   {
