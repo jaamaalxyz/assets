@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "itemImage": "",
+    "itemDescription": "Himsagor",
+    "regularPrice": "29.99",
+    "sellPrice": "20",
+    "majorCat": "pipe",
+    "minorCat": "uPVC",
+    "isFavorite": false,
+    "isNewArrival": false,
+    "isFeatured": false,
+    "isOnSale": false,
+    "isBestSelling": false
+  }
+]
