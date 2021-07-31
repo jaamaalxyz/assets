@@ -27,7 +27,7 @@
     "isNewArrival": true,
     "isFeatured": false,
     "isOnSale": false,
-    "isBestSelling": false
+    "isBestSelling": true
   },
   {
     "id": "3",
@@ -117,7 +117,7 @@
     "isNewArrival": false,
     "isFeatured": true,
     "isOnSale": false,
-    "isBestSelling": false
+    "isBestSelling": true
   },
   {
     "id": "9",
